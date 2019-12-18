@@ -1,0 +1,30 @@
+{
+  "name": "filo",
+  "version": "0.0.1",
+  "description": "Filo is a Discord bot written in discord.js",
+  "main": "program.js",
+  "dependencies": {
+    "discord.js": "^12.0.0-dev",
+    "shoukaku": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node program.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dv54321/Filo.git"
+  },
+  "keywords": [
+    "Filo",
+    "Discordbot",
+    "discord.js",
+    "d.js"
+  ],
+  "author": "DVSAEZI#0305",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dv54321/Filo/issues"
+  },
+  "homepage": "https://github.com/dv54321/Filo#readme"
+}
